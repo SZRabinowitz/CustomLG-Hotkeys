@@ -1,4 +1,8 @@
-![](https://visitor-badge.glitch.me/badge?page_id=biden2020prez.CusromLG-Hotkeys&left_color=green&right_color=red)
+![visitor badge](https://visitor_badge.deta.dev/?id=github.biden2020prez.CustomLG-Hotkeys&labelColor=000&label=Project%20Views)
+![Github All Releases](https://img.shields.io/github/downloads/biden2020prez/CustomLG-Hotkeys/total.svg?labelColor=%23000000)
+![GitHub Latest Release)](https://img.shields.io/github/v/release/biden2020prez/CustomLG-Hotkeys?logo=github&labelColor=%23000000)
+
+
 # CustomLG-Hotkeys
 Modify the launcher hotkeys on the LG Classic Flip to ANY CUSTOM APP Activity!
 
@@ -9,7 +13,8 @@ Because the LG Classic Flip only supports pre-configured apps for the launcher s
 CustomLG-Hotkeys will fully customize which activities you want to launch using the shortcut keys. Say goodbye to limitations!
 
 ## How?
-Connect your device to ADB, put the batch file somewhere in ADB's path, and run!
+Connect your device to ADB, put the batch file somewhere in ADB's path, and run!  
+When it tells you to go to your desired screen, navigate on your phone to the place you want to set the shortcut.
 
 ## What does it do
 CustomLG-Hotkeys works using the following logic:  
