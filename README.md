@@ -1,6 +1,6 @@
 # CustomLG-Hotkeys
 Modify the launcher hotkeys on the LG Classic Flip to ANY CUSTOM APP Activity!
-![](https://visitor-badge.glitch.me/badge?page_id=biden2020prez.lgflipkosher&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=biden2020prez.CusromLG-Hotkeys&left_color=green&right_color=red)
 
 ## Why?
 Because the LG Classic Flip only supports pre-configured apps for the launcher shortcut keys. But using ADB we can fully customize these hotkeys!
