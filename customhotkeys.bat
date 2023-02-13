@@ -15,6 +15,8 @@ echo.
 for /f "tokens=1,2 delims= " %%a in ('adb shell sh /data/local/tmp/homescript.sh') do (
   set package= %ESC%[92m%%a%ESC%[0m
   set class=%ESC%[92m%%b%ESC%[0m
+  set rawpkg=%%a
+  set rawclass=%%b 
 )
 echo Package Name: %package%
 echo Activity Name: %class%
@@ -38,8 +40,8 @@ goto startscript
 :test
 echo.
 echo %ESC%[94mSetting the %key% key to:%package%/%class%%ESC%[0m
-adb shell settings put system hotkey_%key%_class %class%
-adb shell settings put system hotkey_%key%_package %package%
+adb shell settings put system hotkey_%key%_class %rawclass%
+adb shell settings put system hotkey_%key%_package %rawpackage%
 adb shell am force-stop com.lge.fphome
 echo %ESC%[94mDONE!!! %ESC%[0m
 pause
