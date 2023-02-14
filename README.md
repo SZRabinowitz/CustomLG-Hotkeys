@@ -1,5 +1,5 @@
 ![visitor badge](https://visitor_badge.deta.dev/?id=github.biden2020prez.CustomLG-Hotkeys&labelColor=000&label=Project%20Views)
-![GitHub all releases](https://img.shields.io/github/downloads/biden2020prez/CustomLG-Hotkeys/total?color=orange&label=Total%20Downloads&logo=github&style=plastic&labelColor=%23000000)
+![GitHub all releases](https://img.shields.io/github/downloads/biden2020prez/CustomLG-Hotkeys/total?color=orange&label=Total%20Downloads&logo=github&labelColor=%23000000)
 ![GitHub Latest Release)](https://img.shields.io/github/v/release/biden2020prez/CustomLG-Hotkeys?logo=github&labelColor=%23000000&label=Latest%20Release)
 
 
